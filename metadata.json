@@ -1,0 +1,8 @@
+{
+  "name": "Natural Language SQL Query Chat",
+  "description": "A natural language to SQL chat application that safely translates human queries into read-only SQL SELECT statements with injection validation and real database execution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
